@@ -1,0 +1,14 @@
+/retro-mvvm-movieapp/*.iml
+/retro-mvvm-movieapp//retro-mvvm-movieapp/.gradle
+/retro-mvvm-movieapp//local.properties
+/retro-mvvm-movieapp//.idea/caches
+/retro-mvvm-movieapp//.idea/libraries
+/retro-mvvm-movieapp//.idea/modules.xml
+/retro-mvvm-movieapp//.idea/workspace.xml
+/retro-mvvm-movieapp//.idea/navEditor.xml
+/retro-mvvm-movieapp//.idea/assetWizardSettings.xml
+/retro-mvvm-movieapp/.DS_Store
+/retro-mvvm-movieapp//build
+/retro-mvvm-movieapp//captures
+/retro-mvvm-movieapp/.externalNativeBuild
+/retro-mvvm-movieapp/.cxx
